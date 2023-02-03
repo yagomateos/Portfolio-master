@@ -10,9 +10,7 @@ function AboutCard() {
           <p style={{ textAlign: "justify" }}>
             Hi Everyone, I am <span className="purple">Yago Mateos </span>
             from <span className="purple"> Barcelona, Spain.</span>
-            <br />I am a Middleweight Front End Developer especialized on Javascript,<br></br> React and MERN stack
-            <br />
-            <br />
+            I am a Middleweight Front End Developer especialized on Javascript, React and MERN stack.
             Apart from coding, some other activities that I love to do!
           </p>
           <ul>
