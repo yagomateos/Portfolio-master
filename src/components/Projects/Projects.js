@@ -23,7 +23,7 @@ function Projects() {
               isBlog={false}
               title="CrytoAPI"
               description="Criptocurrency API build with React.js, Material-UI and deployed on Vercel."
-              ghLink="https://github.com/yagomateos"
+              ghLink="https://github.com/yagomateos/criptos-react"
               demoLink="https://cotizador-criptos-iota.vercel.app/"
             />
           </Col>
