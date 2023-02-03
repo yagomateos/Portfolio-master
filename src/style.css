@@ -741,3 +741,33 @@ button:focus {
 .fork-btn-inner::after {
   display: none !important;
 }
+
+
+@media (max-width: 450px) {
+
+.home-about-description {
+  padding-top: 0px !important;
+}
+
+
+
+.home-content {
+  padding: 1rem 0 2rem !important;
+  color: whitesmoke;
+  text-align: left;
+}
+
+.home-about-body {
+  padding-top: 3px;
+}
+.footer {
+
+  padding-top: 15px !important;
+}
+.about-section {
+  padding-top: 83px !important;
+}
+.project-section {
+  padding-top: 115px !important;
+}
+}

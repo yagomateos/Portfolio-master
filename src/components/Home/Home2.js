@@ -19,8 +19,7 @@ function Home2() {
               THIS IS MY  <span className="purple">BIO</span> 
             </h1>
             <p className="home-about-body">
-              I am a web developer with more than 8 years experience
-              <br />
+
               <br />I am fluent in classics like
               <i>
                 <b className="purple"> Javascript, React, MongoDB, Prisma, MERN, Tailwind and Styled Components </b>
@@ -32,7 +31,7 @@ function Home2() {
                 <b className="purple">Web Technologies and Products </b> and
                 also in areas related to{" "}
                 <b className="purple">
-                  Deep Learning and Natural Launguage Processing.
+                  Deep Learning and Natural Language Processing.
                 </b>
               </i>
               <br />
