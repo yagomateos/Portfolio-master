@@ -40,7 +40,7 @@ function Projects() {
               title="Liryks Music APP"
               description="React App clone of Spotify using the Shazam Core API. The development was done using Redux and several MusicPlayer components for the control player UI"
               ghLink="https://github.com/yagomateos/lyriks"
-              demoLink="lyriks-wheat.vercel.app"
+              demoLink="https://lyriks-wheat.vercel.app/"
             />
           </Col>
 
