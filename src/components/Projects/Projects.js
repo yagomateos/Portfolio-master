@@ -27,7 +27,7 @@ function Projects() {
               imgPath={chatify}
               isBlog={false}
               title="CrytoAPI"
-              description="Criptocurrency API build with React.js, Material-UI and deployed on Vercel."
+              description="Criptocurrency API build with React.js, Material-UI. It works dinamically when changing currency and loads with Spinner.js"
               ghLink="https://github.com/yagomateos/criptos-react"
               demoLink="https://cotizador-criptos-iota.vercel.app/"
             />
@@ -49,7 +49,7 @@ function Projects() {
               imgPath={bitsOfCode}
               isBlog={false}
               title="Commerce Site"
-              description="Starter kit for high-performance e-commerce sites built in Next.js. Developers can clone, deploy and fully customize their own store."
+              description="Starter kit for high-performance e-commerce sites built in Next.js and Tailwind. Developers can clone, deploy and fully customize their own store."
               ghLink="https://github.com/yagomateos/commerce-site"
               demoLink="https://commerce-site-umber.vercel.app/"
             />
