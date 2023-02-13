@@ -81,18 +81,20 @@ function Projects() {
               demoLink="https://guitarla-next-navy-six.vercel.app"
             />
           </Col>
-
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={emotion}
+              imgPath={leaf}
               isBlog={false}
-              title="Cotizador Seguros"
-              description="Insurance car calculator made with react-router-dom and Boostrap React.
-               The constants are in a provider.js where the values changing acording to the percentage, car model, year and plan."
-              ghLink="https://github.com/yagomateos/cotizador"
-              demoLink="https://cotizador-seguros-seven.vercel.app/"
+              title="Citas Veterinaria"
+              description="Registration web application using Context API and storing the database with Json server. The user can register and modify their data and modify the list of patients.
+               Depending on its functionality, the process log errors with regex are logged.
+              "
+              ghLink="https://github.com/yagomateos/citas-react"
+              demoLink="https://citas-react-46tp.vercel.app/"
             />
           </Col>
+
+
 
 
 
