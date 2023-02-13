@@ -44,14 +44,28 @@ function Projects() {
             />
           </Col>
 
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={bitsOfCode}
+              isBlog={false}
+              title="Commerce Site"
+              description="Starter kit for high-performance e-commerce sites built in Next.js. Developers can clone, deploy and fully customize their own store."
+              ghLink="https://github.com/yagomateos/commerce-site"
+              demoLink="https://commerce-site-umber.vercel.app/"
+            />
+          </Col>
+
+
+
+
             {/* <Col md={4} className="project-card">
             <ProjectCard
               imgPath={bitsOfCode}
               isBlog={false}
-              title="Bits-0f-C0de"
-              description="My personal blog page build with Next.js and Tailwind Css which takes the content from makdown files and renders it using Next.js. Supports dark mode and easy to write blogs using markdown."
-              ghLink="https://github.com/soumyajit4419/Bits-0f-C0de"
-              demoLink="https://blogs.soumya-jit.tech/"
+              title="Commerce Site"
+              description="Starter kit for high-performance e-commerce sites. With a few clicks, Next.js developers can clone, deploy and fully customize their own store."
+              ghLink="hhttps://github.com/yagomateos/commerce-site"
+              demoLink="https://commerce-site-umber.vercel.app/
             />
           </Col> */}
 
