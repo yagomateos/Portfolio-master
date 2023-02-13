@@ -27,7 +27,8 @@ function Projects() {
               imgPath={chatify}
               isBlog={false}
               title="CrytoAPI"
-              description="Criptocurrency API build with React.js, Material-UI. It works dinamically when changing currency and loads with Spinner.js"
+              description="Criptocurrency API build with React.js, Material-UI.
+               It works dinamically when changing currency and loads with Spinner.js."
               ghLink="https://github.com/yagomateos/criptos-react"
               demoLink="https://cotizador-criptos-iota.vercel.app/"
             />
@@ -38,7 +39,8 @@ function Projects() {
               imgPath={editor}
               isBlog={false}
               title="Liryks Music APP"
-              description="React App clone of Spotify using the Shazam Core API. The development was done using Redux and several MusicPlayer components for the control player UI"
+              description="React App clone of Spotify using the Shazam Core API.
+               The development was done using Redux and several MusicPlayer components for the control player UI."
               ghLink="https://github.com/yagomateos/lyriks"
               demoLink="https://lyriks-wheat.vercel.app/"
             />
@@ -49,9 +51,46 @@ function Projects() {
               imgPath={bitsOfCode}
               isBlog={false}
               title="Commerce Site"
-              description="Starter kit for high-performance e-commerce sites built in Next.js and Tailwind. Developers can clone, deploy and fully customize their own store."
+              description="Starter kit for high-performance e-commerce sites built in Next.js and Tailwind.
+               Developers can clone, deploy and fully customize their own store."
               ghLink="https://github.com/yagomateos/commerce-site"
               demoLink="https://commerce-site-umber.vercel.app/"
+            />
+          </Col>
+
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={emotion}
+              isBlog={false}
+              title="Cotizador Seguros"
+              description="Insurance car calculator made with react-router-dom and Boostrap React.
+               The constants are in a provider.js where the values changing acording to the percentage, car model, year and plan."
+              ghLink="https://github.com/yagomateos/cotizador"
+              demoLink="https://cotizador-seguros-seven.vercel.app/"
+            />
+          </Col>
+
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={suicide}
+              isBlog={false}
+              title="Guitar Shop web app"
+              description="Guitar Shop built with Strapi and Remix Run in React.
+               The Headless CMS has all the json files saved as products and renders on the Remix frontend."
+              ghLink="https://github.com/yagomateos/guitarla-remix"
+              demoLink="https://guitarla-next-navy-six.vercel.app"
+            />
+          </Col>
+
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={emotion}
+              isBlog={false}
+              title="Cotizador Seguros"
+              description="Insurance car calculator made with react-router-dom and Boostrap React.
+               The constants are in a provider.js where the values changing acording to the percentage, car model, year and plan."
+              ghLink="https://github.com/yagomateos/cotizador"
+              demoLink="https://cotizador-seguros-seven.vercel.app/"
             />
           </Col>
 
