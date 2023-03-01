@@ -451,6 +451,8 @@ button:focus {
   background-image: var(--section-background-color) !important;
 }
 
+.card-text { text-align: center !important;}
+
 .project-card {
   padding-top: 50px !important;
   padding-bottom: 50px !important;
@@ -661,7 +663,7 @@ button:focus {
 
 .resume .resume-item ul {
   padding-left: 20px;
-  text-align: justify;
+  
 }
 
 .resume .resume-item ul li {

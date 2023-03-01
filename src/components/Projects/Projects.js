@@ -27,8 +27,7 @@ function Projects() {
               imgPath={chatify}
               isBlog={false}
               title="CrytoAPI"
-              description="Criptocurrency API build with React.js, Material-UI.
-               It works dinamically when changing currency and loads with Spinner.js."
+              description="I built a cryptocurrency API using React.js and Material-UI that dynamically updates currency and features Spinner.js for loading."
               ghLink="https://github.com/yagomateos/criptos-react"
               demoLink="https://cotizador-criptos-iota.vercel.app/"
             />
@@ -39,8 +38,7 @@ function Projects() {
               imgPath={editor}
               isBlog={false}
               title="Liryks Music APP"
-              description="React App clone of Spotify using the Shazam Core API.
-               The development was done using Redux and several MusicPlayer components for the control player UI."
+              description="Developed a React app with Redux that clones Spotify using the Shazam Core API. Features MusicPlayer components for control player UI."
               ghLink="https://github.com/yagomateos/lyriks"
               demoLink="https://lyriks-wheat.vercel.app/"
             />
@@ -51,8 +49,7 @@ function Projects() {
               imgPath={bitsOfCode}
               isBlog={false}
               title="Commerce Site"
-              description="Starter kit for high-performance e-commerce sites built in Next.js and Tailwind.
-               Developers can clone, deploy and fully customize their own store."
+              description="Next.js and Tailwind-based starter kit for high-performance e-commerce sites. Clone, deploy and fully customize your own store with ease."
               ghLink="https://github.com/yagomateos/commerce-site"
               demoLink="https://commerce-site-umber.vercel.app/"
             />
@@ -62,9 +59,8 @@ function Projects() {
             <ProjectCard
               imgPath={emotion}
               isBlog={false}
-              title="Cotizador Seguros"
-              description="Insurance car calculator made with react-router-dom and Boostrap React.
-               The constants are in a provider.js where the values changing acording to the percentage, car model, year and plan."
+              title="Car Insurance Calculator"
+              description="React-based car insurance calculator utilizing react-router-dom and Bootstrap React. Provider.js adjusts constant values based on percentage, car model, year, and plan."
               ghLink="https://github.com/yagomateos/cotizador"
               demoLink="https://cotizador-seguros-seven.vercel.app/"
             />
@@ -74,9 +70,8 @@ function Projects() {
             <ProjectCard
               imgPath={suicide}
               isBlog={false}
-              title="Guitar Shop web app"
-              description="Guitar Shop built with Strapi and Remix Run in React.
-               The Headless CMS has all the json files saved as products and renders on the Remix frontend."
+              title="Guitar Shop Web App"
+              description="Guitar Shop built with Strapi and Remix Run in React. Strapi acts as the Headless CMS with products saved as JSON files, rendering on the Remix frontend."
               ghLink="https://github.com/yagomateos/guitarla-remix"
               demoLink="https://guitarla-next-navy-six.vercel.app"
             />
@@ -86,9 +81,7 @@ function Projects() {
               imgPath={leaf}
               isBlog={false}
               title="Citas Veterinaria"
-              description="Registration web application using Context API and storing the database with Json server. The user can register and modify their data and modify the list of patients.
-               Depending on its functionality, the process log errors with regex are logged.
-              "
+              description="Registration web app using Context API and Json server for database storage. Users can register and modify data, and manage patient lists. Regex-based error logging included."
               ghLink="https://github.com/yagomateos/citas-react"
               demoLink="https://citas-react-46tp.vercel.app/"
             />
