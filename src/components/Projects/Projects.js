@@ -27,7 +27,7 @@ function Projects() {
               imgPath={chatify}
               isBlog={false}
               title="CrytoAPI"
-              description="I built a cryptocurrency API using React.js and Material-UI that dynamically updates currency and features Spinner.js for loading."
+              description="Cryptocurrency API using React.js and Material-UI that dynamically updates currency and features Spinner.js for loading."
               ghLink="https://github.com/yagomateos/criptos-react"
               demoLink="https://cotizador-criptos-iota.vercel.app/"
             />
