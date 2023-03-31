@@ -22,14 +22,15 @@ function Projects() {
           Here are a few projects I've worked on recently.
         </p>
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
-          <Col md={4} className="project-card">
+
+        <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={chatify}
+              imgPath={bitsOfCode}
               isBlog={false}
-              title="CrytoAPI"
-              description="Cryptocurrency API using React.js and Material-UI that dynamically updates currency and features Spinner.js for loading."
-              ghLink="https://github.com/yagomateos/criptos-react"
-              demoLink="https://cotizador-criptos-iota.vercel.app/"
+              title="Metaversus"
+              description="Modern Next 13 Website With Framer Motion & Tailwind CSS"
+              ghLink="https://github.com/yagomateos/metaversus"
+              demoLink="https://metaversus-yagomateos.vercel.app"
             />
           </Col>
 
@@ -46,14 +47,15 @@ function Projects() {
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={bitsOfCode}
+              imgPath={chatify}
               isBlog={false}
-              title="Commerce Site"
-              description="Next.js and Tailwind-based starter kit for high-performance e-commerce sites. Clone, deploy and fully customize your own store with ease."
-              ghLink="https://github.com/yagomateos/commerce-site"
-              demoLink="https://commerce-site-umber.vercel.app/"
+              title="CrytoAPI"
+              description="Cryptocurrency API using React.js and Material-UI that dynamically updates currency and features Spinner.js for loading."
+              ghLink="https://github.com/yagomateos/criptos-react"
+              demoLink="https://cotizador-criptos-iota.vercel.app/"
             />
           </Col>
+
 
           <Col md={4} className="project-card">
             <ProjectCard
