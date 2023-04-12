@@ -610,12 +610,15 @@ button:focus {
   padding-bottom: 30px !important;
   background-image: var(--section-background-color) !important;
   color: white !important;
+  text-align: left;
+  margin: 0 auto; /* center the container horizontally */
+  padding: 0 20px; /* add equal padding on the left and right */
 }
 
 .resume {
   padding-top: 50px;
   padding-bottom: 50px;
-  justify-content: center;
+  justify-content: left;
 }
 
 .resume-left {
